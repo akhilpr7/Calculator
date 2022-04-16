@@ -1,6 +1,6 @@
 .root{
     width: 400px;
-    height: 600px;
+    height: 700px;
     background-color: sandybrown;
     margin-left: 450px;
     border-radius: 10px;
@@ -14,4 +14,14 @@
     width: 332px;
     margin-top: 104px;
     border-radius: 10px;
+}
+.btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+.firstrow{
+    padding-left: 27px;
+    padding-top: 40px;
 }

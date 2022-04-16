@@ -1,0 +1,17 @@
+.root{
+    width: 400px;
+    height: 600px;
+    background-color: sandybrown;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+.screen{
+    width: 300px;
+}
+.input{
+    margin-left: 32px;
+    height: 51px;
+    width: 332px;
+    margin-top: 104px;
+    border-radius: 10px;
+}
